@@ -1,0 +1,55 @@
+body {
+  font-family: "VarelaRound-Regular", sans-serif;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  background: rgb(64, 113, 152);
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.outline-button {
+  font-size: 18px;
+  color: #333;
+  background: white;
+  border: solid #333 1px;
+  text-decoration: none;
+  margin: 12px;
+  padding: 12px;
+  width: 80%;
+}
+
+.inline-button {
+  font-size: 18px;
+  color: #333;
+  background: white;
+  border: solid #333 1px;
+  text-decoration: none;
+  margin: 12px;
+  padding: 12px 24px;
+  /*width: 80%;*/
+}
+
+hr {
+  border: 1px solid #ffffff;
+  margin: 15px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.word {
+  width: 100%;
+  padding: 12px;
+}
+
+p {
+  line-height: 1.5;
+}
+

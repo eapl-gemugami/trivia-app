@@ -1,0 +1,1487 @@
+[
+  {
+    "text": "¿Donde se inventó la pizza moderna?",
+    "options": [
+      "Italia",
+      "Holanda",
+      "Grecia",
+      "España"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿En cual bebida se fermentan uvas=",
+    "options": [
+      "Vino",
+      "Cerveza",
+      "Whisky",
+      "Sidra"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿De dónde es originario el Sushi?",
+    "options": [
+      "Japón",
+      "China",
+      "Corea",
+      "Vietnam"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Cual metal es más común en las latas de refresco?",
+    "options": [
+      "Aluminio",
+      "Hierro",
+      "Cobre",
+      "Platino"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué gas requieren las plantas para la fotosíntesis?",
+    "options": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Hidrógeno",
+      "Helio"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué fruta era “la comida de los dioses” en la mitología griega?",
+    "options": [
+      "Ambrosía",
+      "Uva",
+      "Manzana",
+      "Granada"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué país es famoso por su pasta y su forma de bota?",
+    "options": [
+      "Italia",
+      "Grecia",
+      "Portugal",
+      "Francia"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿De cual animal es más común obtener su leche?",
+    "options": [
+      "Vaca",
+      "Cabra",
+      "Oveja",
+      "Yegua"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Cual es el pan para los hotdogs?",
+    "options": [
+      "Pan alargado",
+      "Pan de caja",
+      "Pan pita",
+      "Bollos redondos"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Cuál es la base en la dieta mexicana?",
+    "options": [
+      "Maíz",
+      "Trigo",
+      "Papa",
+      "Cerveza"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué país es famoso por la “paella”?",
+    "options": [
+      "España",
+      "Francia",
+      "Grecia",
+      "Italia"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿En cuál país el ceviche es Patrimonio Cultural de la Nación?",
+    "options": [
+      "Perú",
+      "Colombia",
+      "Chile",
+      "México"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Cuál es el ingrediente principal del guacamole?",
+    "options": [
+      "Aguacate",
+      "Cebolla",
+      "Limón",
+      "Tomate"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué platillo italiano está hecho con capas de pasta, carne y salsa?",
+    "options": [
+      "Lasagna",
+      "Ravioles",
+      "Pizza",
+      "Risotto"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿En qué país se originaron los croissants?",
+    "options": [
+      "Francia",
+      "Bélgica",
+      "Austria",
+      "Italia"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué carne es tradicional en los tacos al pastor?",
+    "options": [
+      "Cerdo",
+      "Cordero",
+      "Res",
+      "Pollo"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Cuál de estos postres es de origen francés?",
+    "options": [
+      "Crepas",
+      "Gelato",
+      "Tiramisú",
+      "Churros"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué país es famoso por sus empanadas y asados?",
+    "options": [
+      "Argentina",
+      "México",
+      "Chile",
+      "Brasil"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué platillo mexicano de las fiestas patrias está hecho con maíz, chile y carne?",
+    "options": [
+      "Pozole",
+      "Tamales",
+      "Sopes",
+      "Enchiladas"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "¿Qué postre italiano se prepara con capas de café, bizcocho y mascarpone?",
+    "options": [
+      "Tiramisu",
+      "Panettone",
+      "Gelato",
+      "Pastel"
+    ],
+    "answerIndex": 0,
+    "category": 1
+  },
+  {
+    "text": "En Super Mario Bros. de 1985, ¿De qué color es su overol?",
+    "options": [
+      "Rojo",
+      "Azul",
+      "Café / Marrón",
+      "Verde"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "En el Tetris clásico de NES, ¿de qué color es la pieza recta, conocida como I?",
+    "options": [
+      "Azul claro",
+      "Rojo",
+      "Amarillo",
+      "Verde"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "Cuando Pac-Man come una \"Power Pellet\", ¿de que color cambiar los fantasmas al hacerse vulnerables?",
+    "options": [
+      "Azul oscuro",
+      "Rojo",
+      "Amarillo",
+      "Negro"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "En Pac-Man, ¿cuál de los cuatro fantasmas lleva el nombre de \"Orange\" (Naranja) en la versión japonesa?",
+    "options": [
+      "Clyde",
+      "Pinky",
+      "Blinky",
+      "Inky"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "En Doom (Juego de 1993), el protagonista comienza con una pistola. ¿Cuál es su segunda arma disponible?",
+    "options": [
+      "Puños",
+      "Escopeta",
+      "Motosierra",
+      "Rifle"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "En Pokémon Rojo/Azul, ¿cuál de estos pueblos o ciudades no es vecino de Pueblo Paleta?",
+    "options": [
+      "Ciudad Celeste/Cerulean",
+      "Ciudad Plateada/Pewter",
+      "Ciudad Verde/Viridian",
+      "Isla Canela/Cinnabar"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "En Final Fantasy VII, ¿Cuál es la característica de la espada de Cloud?",
+    "options": [
+      "Agujeros en la base",
+      "Se transforma",
+      "Más grande que el protagonista",
+      "Es de color negro"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "En Mario Kart 64, ¿Cuál de estos no se encuentra en la caja de items?",
+    "options": [
+      "Monedas",
+      "Champiñón",
+      "Estrella",
+      "Rayo"
+    ],
+    "answerIndex": 0,
+    "category": 2
+  },
+  {
+    "text": "¿De qué color es la letra G en la página de Google?",
+    "options": [
+      "Azul",
+      "Rojo",
+      "Verde",
+      "Amarillo"
+    ],
+    "answerIndex": 0,
+    "category": 3
+  },
+  {
+    "text": "En el teclado estándard. ¿Qué letra está entre la G y la J?",
+    "options": [
+      "H",
+      "Y",
+      "F",
+      "K"
+    ],
+    "answerIndex": 0,
+    "category": 3
+  },
+  {
+    "text": "En el logo de Amazon. hay una flecha. ¿Qué representa?",
+    "options": [
+      "Una sonrisa",
+      "Un carrito",
+      "El rio Amazonas",
+      "Un envío"
+    ],
+    "answerIndex": 0,
+    "category": 3
+  },
+  {
+    "text": "En Google Maps, cuando estás en navegación, ¿cómo se representa tu ubicación actual?",
+    "options": [
+      "Círculo azul",
+      "Punto rojo",
+      "Línea verde",
+      "Flecha azul"
+    ],
+    "answerIndex": 0,
+    "category": 3
+  },
+  {
+    "text": "¿Cuál es el país más grande del mundo?",
+    "options": [
+      "Rusia",
+      "Canadá",
+      "China",
+      "Estados Unidos"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿En qué continente se encuentra Egipto?",
+    "options": [
+      "África",
+      "Asia",
+      "Europa",
+      "Oceanía"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Qué océano es el más grande del mundo?",
+    "options": [
+      "Pacífico",
+      "Atlántico",
+      "Índico",
+      "Ártico"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuántos continentes hay en el mundo?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál es el océano que separa América y Europa?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Pacífico",
+      "Ártico"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿En qué país nació el tango?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "España",
+      "Chile"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿En qué país de Sudamérica se habla portugués?",
+    "options": [
+      "Brasil",
+      "Chile",
+      "Uruguay",
+      "Bolivia"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál es la moneda oficial de Japón?",
+    "options": [
+      "Yen",
+      "Yuan",
+      "Won",
+      "Yin"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Dónde está la Torre de Pisa?",
+    "options": [
+      "Italia",
+      "Francia",
+      "España",
+      "Grecia"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Donde está la Torre Eiffel original?",
+    "options": [
+      "Francia",
+      "Alemania",
+      "España",
+      "Bélgica"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cual país tiene más zonas horarias considerando todos sus territorios?",
+    "options": [
+      "Francia",
+      "Rusia",
+      "Estados Unidos (11)",
+      "Australia"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál capital sudamericana está a mayor altitud?",
+    "options": [
+      "La Paz, Bolivia",
+      "Quito, Ecuador",
+      "Bogotá, Colombia",
+      "Lima, Perú"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál país no está atravesado por el Círculo Polar Ártico?",
+    "options": [
+      "Islandia",
+      "Rusia",
+      "Canadá",
+      "Suecia"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Qué hace única a la bandera de Nepal?",
+    "options": [
+      "Dos picos del Himalaya",
+      "Dos lunas crecientes",
+      "Dos templos",
+      "Dos rios"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál de estos países están totalmente debajo del Ecuador, sin tocarlo?",
+    "options": [
+      "Sudáfrica",
+      "Egipto",
+      "Marruecos",
+      "Nigeria"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "Además de Nepal, ¿qué otro país comparte el Monte Everest?",
+    "options": [
+      "China",
+      "Bután",
+      "Pakistán",
+      "India"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál ciudad está más al sur?",
+    "options": [
+      "Barcelona, España",
+      "Venecia, Italia",
+      "Oporto, Portugal",
+      "Marsella, Francia"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Dónde desemboca el Río Nilo?",
+    "options": [
+      "Mar Mediterráneo",
+      "Mar Negro",
+      "Océano Atlántico",
+      "Mar Rojo"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál capital del mundo es única al tener frontera con 10 países?",
+    "options": [
+      "Ninguna",
+      "Viena, Austria",
+      "Berlín, Alemania",
+      "Moscú, Rusia"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál de estos países no tiene salida al mar?",
+    "options": [
+      "Laos",
+      "Vietnam",
+      "Tailandia",
+      "Malasia"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál es el lema de la bandera de Brasil?",
+    "options": [
+      "Orden y Progreso",
+      "Libertad y Progreso",
+      "Progreso y Samba",
+      "Progreso y Orden"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿En qué región hay más paises con el Español como lengua oficial?",
+    "options": [
+      "América del Sur",
+      "América del Norte",
+      "Europa",
+      "África"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "Contando cada elemento individual, ¿de qué color es el elemento que está más veces en la bandera de Estados Unidos?",
+    "options": [
+      "Blanco",
+      "Azul",
+      "Rojo",
+      "Amarillo"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál es el desierto más grande del mundo?",
+    "options": [
+      "Antártida",
+      "Sahara",
+      "Gobi",
+      "Kalahari"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál es el océano menos profundo?",
+    "options": [
+      "Océano Ártico",
+      "Océano Atlántico",
+      "Océano Pacífico",
+      "Océano Índico"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Cuál estructura se construyó antes?",
+    "options": [
+      "Stonehenge, Reino Unido",
+      "Gran Muralla China",
+      "Pirámide de Giza, en Egipto",
+      "Machi Pichu, Perú"
+    ],
+    "answerIndex": 0,
+    "category": 4
+  },
+  {
+    "text": "¿Qué planeta es conocido como el “planeta rojo”?",
+    "options": [
+      "Marte",
+      "Júpiter",
+      "Venus",
+      "Mercurio"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué gas respiramos para vivir?",
+    "options": [
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Hidrógeno"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cuántos huesos tiene el cuerpo humano adulto aproximadamente?",
+    "options": [
+      "206",
+      "602",
+      "306",
+      "242"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué parte del cuerpo humano bombea la sangre?",
+    "options": [
+      "Corazón",
+      "Pulmones",
+      "Cerebro",
+      "Hígado"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué instrumento mide la temperatura?",
+    "options": [
+      "Termómetro",
+      "Micrómetro",
+      "Barómetro",
+      "Manómetro"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué planeta tiene anillos visibles?",
+    "options": [
+      "Saturno",
+      "Neptuno",
+      "Urano",
+      "Júpiter"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cuál es el mamífero más grande del mundo?",
+    "options": [
+      "Ballena azul",
+      "Elefante",
+      "Hipopótamo",
+      "Orca"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué gas llena los globos para que floten?",
+    "options": [
+      "Helio",
+      "Oxígeno",
+      "Hidrógeno",
+      "Nitrógeno"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué animal terrestre es el más rápido?",
+    "options": [
+      "Guepardo",
+      "León",
+      "Tigre",
+      "Leopardo"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué océano es el más frío del planeta?",
+    "options": [
+      "Ártico",
+      "Atlántico",
+      "Pacífico",
+      "Índico"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cuál es el planeta más cercano al Sol?",
+    "options": [
+      "Mercurio",
+      "Marte",
+      "Venus",
+      "Júpiter"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cuál es el animal terrestre más grande del planeta?",
+    "options": [
+      "Elefante africano",
+      "Hipopótamo",
+      "Rinoceronte",
+      "Jirafa"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cómo se llama el proceso por el cual las plantas producen su alimento?",
+    "options": [
+      "Fotosíntesis",
+      "Germinación",
+      "Digestión",
+      "Polinización"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cuál es el metal más ligero del mundo?",
+    "options": [
+      "Litio",
+      "Plata",
+      "Aluminio",
+      "Hierro"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Qué tipo de animal es el delfín?",
+    "options": [
+      "Mamífero",
+      "Pez",
+      "Reptil",
+      "Anfibio"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "options": [
+      "Fémur",
+      "Húmero",
+      "Tibia",
+      "Radio"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Cómo se llama la fuerza que nos mantiene pegados al suelo?",
+    "options": [
+      "Gravedad",
+      "Energía",
+      "Magnetismo",
+      "Fricción"
+    ],
+    "answerIndex": 0,
+    "category": 5
+  },
+  {
+    "text": "¿Quién pintó la Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Miguel Ángel",
+      "Rafael",
+      "Leonardo Dicaprio"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Quién escribió Cien años de soledad que le llevó a ganar el Premio nobel 1982?",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Isabel Allende",
+      "Julio Cortázar"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Quién fue la primera persona en pisar la Luna?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Alan Shepard"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué red social fue creada por Mark Zuckerberg?",
+    "options": [
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "TikTok"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué idioma se habla en Brasil?",
+    "options": [
+      "Portugués",
+      "Italiano",
+      "Inglés",
+      "Español"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué deporte se juega con raqueta y pelota amarilla?",
+    "options": [
+      "Tenis",
+      "Squash",
+      "Bádminton",
+      "Ping pong"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué idioma se habla en Australia?",
+    "options": [
+      "Inglés",
+      "Neerlandés",
+      "nan",
+      "Francés"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuál es el símbolo químico del agua?",
+    "options": [
+      "H₂O",
+      "HO₂",
+      "CO₂",
+      "O₂"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuántos colores diferentes hay en un arcoíris?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué animal simboliza la paz?",
+    "options": [
+      "Paloma",
+      "Conejo",
+      "Gato",
+      "León"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Quién es el protagonista de la saga Piratas del Caribe?",
+    "options": [
+      "Jack Sparrow",
+      "Will Turner",
+      "Davy Jones",
+      "Hector Barbossa"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué película de Disney tiene como protagonista a un león llamado Simba?",
+    "options": [
+      "El Rey León",
+      "Tarzán",
+      "Dumbo",
+      "Bambi"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "En qué saga aparece el personaje de Darth Vader?",
+    "options": [
+      "Star Wars",
+      "Dune",
+      "Guardianes de la Galaxia",
+      "Star Trek"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuál fue la primera película animada de Pixar?",
+    "options": [
+      "Toy Story",
+      "Monsters Inc.",
+      "Cars",
+      "Buscando a Nemo"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué serie presenta a un grupo de amigos en Nueva York?",
+    "options": [
+      "Friends",
+      "The Office",
+      "Seinfeld",
+      "How I Met Your Mother"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué actriz interpreta a Hermione Granger en Harry Potter?",
+    "options": [
+      "Emma Watson",
+      "Emma Roberts",
+      "Emma Stone",
+      "Emily Blunt"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué superhéroe es conocido como “El Caballero de la Noche”?",
+    "options": [
+      "Batman",
+      "Superman",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuál de estas películas ganó el Óscar a Mejor Película en 1998?",
+    "options": [
+      "Titanic",
+      "Forrest Gump",
+      "Gladiador",
+      "Braveheart"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿En qué serie aparece el personaje Eleven?",
+    "options": [
+      "Stranger Things",
+      "Dark",
+      "The OA",
+      "Fringe"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Qué película tiene el famoso diálogo “Yo soy tu padre”?",
+    "options": [
+      "Star Wars",
+      "Avengers",
+      "Matrix",
+      "Terminator"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿En cuál de estas películas aparece un personaje llamado Forrest que corre por todo el país?",
+    "options": [
+      "Forrest Gump",
+      "El Curioso Caso de Benjamin Button",
+      "Apolo 13",
+      "Náufrago"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuál de estas películas de ciencia ficción ganó el Óscar a Mejor Director para Alfonso Cuarón?",
+    "options": [
+      "Gravity",
+      "Arrival",
+      "Avatar",
+      "Interstellar"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuál de estas películas ganó el Óscar a Mejor Película en 2020?",
+    "options": [
+      "Parasite",
+      "1917",
+      "Joker",
+      "Once Upon a Time in Hollywood"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿En cuál de estas películas aparece el personaje Jack Dawson?",
+    "options": [
+      "Titanic",
+      "Romeo + Juliet",
+      "El Gran Gatsby",
+      "Moulin Rouge"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuál de estas películas ganó el Óscar a Mejor Película en 2017 después de un error en la premiación?",
+    "options": [
+      "Moonlight",
+      "Spotlight",
+      "The Shape of Water",
+      "La La Land"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿Cuál de estas películas ganó el Óscar a Mejor Película Animada?",
+    "options": [
+      "Intensamente",
+      "Kung Fu Panda",
+      "Shrek 2",
+      "Frozen II"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿En cuál de estas películas aparece el personaje Joaquin Phoenix interpretando a un villano de cómic?",
+    "options": [
+      "Joker",
+      "Logan",
+      "V de Vendetta",
+      "El Caballero de la Noche"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿En cuál de estas películas ganadora de varios Oscars aparece el personaje Frodo Bolsón?",
+    "options": [
+      "El Señor de los Anillos: El Retorno del Rey",
+      "El Hobbit",
+      "Narnia",
+      "Willow"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "En la icónica serie Friends, ¿Cuántos aplausos rápidos se escuchan en el intro \"I'll Be There for You\"?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "En la serie Breaking Bad, el protagonista adopta el alias \"Heisenberg\" conocido por estudiar la",
+    "options": [
+      "Mecánica Cuántica",
+      "Química",
+      "Física",
+      "Biología"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "En la icónica serie \"Game of Thrones\", ¿Cual casa tiene el lema \"Fuego y Sangre\"?",
+    "options": [
+      "Targaryen",
+      "Stark",
+      "Lannister",
+      "Baratheon"
+    ],
+    "answerIndex": 0,
+    "category": 6
+  },
+  {
+    "text": "¿En qué país se originaron los Juegos Olímpicos?",
+    "options": [
+      "Grecia",
+      "Turquía",
+      "Egipto",
+      "Italia"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Cuántos días tiene un año bisiesto?",
+    "options": [
+      "366",
+      "367",
+      "364",
+      "365"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué instrumento tiene teclas blancas y negras?",
+    "options": [
+      "Piano",
+      "Guitarra",
+      "Flauta",
+      "Violín"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué parte del cuerpo usa el médico para escuchar el corazón?",
+    "options": [
+      "Estetoscopio",
+      "Termómetro",
+      "Microscopio",
+      "Fonendoscopio"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Cuántas horas tiene un día?",
+    "options": [
+      "24",
+      "36",
+      "12",
+      "48"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué número romano representa el 10?",
+    "options": [
+      "X",
+      "V",
+      "L",
+      "IX"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Cuántos lados tiene un hexágono?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "10"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué animal tiene ocho patas?",
+    "options": [
+      "Araña",
+      "Pulpo",
+      "Ciempiés",
+      "cucaracha"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué planeta es el más grande del sistema solar?",
+    "options": [
+      "Júpiter",
+      "Saturno",
+      "Neptuno",
+      "Urano"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué continente se considera la cuna de la humanidad?",
+    "options": [
+      "África",
+      "Oceanía",
+      "Asia",
+      "Europa"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Quién fue el primer presidente de los Estados Unidos?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "Benjamin Franklin"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿En qué país se construyeron las pirámides de Giza?",
+    "options": [
+      "Egipto",
+      "Sudán",
+      "México",
+      "Grecia"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué civilización inventó la escritura jeroglífica?",
+    "options": [
+      "Egipcia",
+      "Romana",
+      "China",
+      "Griega"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿En qué año llegó Cristóbal Colón a América?",
+    "options": [
+      "1492",
+      "1500",
+      "1450",
+      "1412"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué ciudad fue destruida por el volcán Vesubio en el año 79 d.C.?",
+    "options": [
+      "Pompeya",
+      "Atenas",
+      "Cartago",
+      "Roma"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué país es conocido como “la cuna de la democracia”?",
+    "options": [
+      "Grecia",
+      "Inglaterra",
+      "Francia",
+      "Italia"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué famosa muralla se construyó para proteger un imperio de las invasiones?",
+    "options": [
+      "Muralla China",
+      "Muro de Berlín",
+      "Muralla de Adriano",
+      "Muralla de Troya"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué evento histórico dio inicio a la Segunda Guerra Mundial?",
+    "options": [
+      "La invasión de Polonia",
+      "El ataque a Pearl Harbor",
+      "La Revolución Rusa",
+      "El Tratado de Versalles"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Qué famoso científico desarrolló la teoría de la relatividad?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answerIndex": 0,
+    "category": 7
+  },
+  {
+    "text": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿Qué país ganó la Copa del Mundo de fútbol en 2018?",
+    "options": [
+      "Francia",
+      "Alemania",
+      "Brasil",
+      "Argentina"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿Cómo se llama el torneo más famoso de tenis jugado en Inglaterra?",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "Roland Garros",
+      "Australian Open"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿Cuántos puntos vale un touchdown en el fútbol americano?",
+    "options": [
+      "6",
+      "3",
+      "7",
+      "10"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿En qué deporte se usa un bate plano y una pelota pequeña blanca?",
+    "options": [
+      "Críquet",
+      "Béisbol",
+      "Golf",
+      "Polo"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿Qué país es el equipo más ganador en el hockey sobre hielo?",
+    "options": [
+      "Canadá",
+      "Rusia",
+      "Suecia",
+      "Estados Unidos"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿En qué deporte compitió Michael Phelps ganando 28 medallas olímpicas?",
+    "options": [
+      "Natación",
+      "Atletismo",
+      "Remo",
+      "Gimnasia"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿Cuál de estos deportes se practica en invierno?",
+    "options": [
+      "Snowboard",
+      "Surf",
+      "Ciclismo",
+      "Natación"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿Qué jugador argentino se llevó 8 Balones de Oro?",
+    "options": [
+      "Messi",
+      "Maradona",
+      "Riquelme",
+      "Di María"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  },
+  {
+    "text": "¿En qué deporte se usa una pelota naranja y se anotan puntos en una canasta?",
+    "options": [
+      "Baloncesto",
+      "Fútbol americano",
+      "Voleibol",
+      "Rugby"
+    ],
+    "answerIndex": 0,
+    "category": 8
+  }
+]

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+  <meta name="description" content="">
+  <meta name="author" content="Gemu Lab">
+
+  <title>~ Truck Trivia ~</title>
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/fonts.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <!-- Screen 1 - Main Menu --->
+        <div id="s1_main" class="center">
+          <h3 id="header">Truck Trivia</h3>
+          <hr>
+          <!--
+          <button class="outline-button" id="btnContinueGame">Continuar partida</button>
+          --->
+          <button class="outline-button" id="btnNewGame">Nueva partida</button>
+          <hr>
+        </div>
+
+        <!-- Screen 2 - New Match --->
+        <div id="s2_new_match" class="center">
+          <h3 id="header">Truck Trivia</h3>
+          <hr>
+          <h4>
+            <p id="tw">¿Cuántos jugadores son?</p>
+            <div>
+              <button class="inline-button" id="btnS2PlayersDecr">-</button>
+              <span id="playersCount">2</span>
+              <button class="inline-button" id="btnS2PlayersIncr">+</button>
+            </div>
+            <button class="outline-button" id="btnS2Continue">Continuar</button>
+          </h4>
+          <hr />
+        </div>
+
+        <!-- Screen 3 - Pick Categories --->
+        <div id="s3_pick_categories" class="center">
+          <h3 id="header">Truck Trivia</h3>
+          <hr>
+          <h4>
+            <p id="tw">Elige una categoría</p>
+            <button class="outline-button" id="btnS3Cat1">Categoría 1</button>
+            <button class="outline-button" id="btnS3Cat2">Categoría 2</button>
+            <button class="outline-button" id="btnS3Cat3">Categoría 3</button>
+            <button class="outline-button" id="btnS3Cat4">Categoría 4</button>
+            <button class="outline-button" id="btnS3Cat5">Categoría 5</button>
+          </h4>
+          <hr />
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+<script src="vendor/typeit.min.js"></script>
+<script src="vendor/jquery-3.7.1.min.js"></script>
+
+<script src="js/load_data.js" type="module"></script>
+<script src="js/app.js" type="module"></script>
+
+</html>
